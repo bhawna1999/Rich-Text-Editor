@@ -1,0 +1,35 @@
+.nav{
+    background-color : hotpink;
+    color: white;
+    height: 30px;
+    font-size: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+button{
+    background-color : hotpink;
+    color: white;
+    border-color: white;
+}
+select{
+    background-color : hotpink;
+    color: white;
+    border-color: white;
+}
+input{
+    background-color : hotpink;
+    color: white;
+    border-color: white;
+}
+div{
+    color: hotpink;
+    text-shadow: white;
+}
+iframe{
+    border-radius: 10px;
+    border-color: hotpink;
+    margin-left: 150px;
+}
+.opt{
+    padding-left: 300px;
+}
